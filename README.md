@@ -1,6 +1,7 @@
-# procurement-analytics-manufacturing
-A procurement analytics case study for a manufacturing company using Excel to evaluate supplier performance, procurement KPIs and spending optimization.
 Procurement Spend & Supplier Risk Analysis
+
+A procurement analytics case study for a manufacturing company using Excel to evaluate supplier performance, procurement KPIs and spending optimization.
+
 1. Project Overview
 Background
 
